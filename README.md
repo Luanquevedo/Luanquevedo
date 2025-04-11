@@ -4,6 +4,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luanquevedo&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luanquevedo&theme=dracula&hide_border=true"/>
+</div>
+
+---
+
 ## 🧠 Sobre mim
 
 Sou desenvolvedor front-end com forte atuação em **React.js**, **Next.js** e **JavaScript**. Apaixonado por transformar ideias em produtos digitais funcionais, acessíveis e bem estruturados.
