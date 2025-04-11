@@ -6,9 +6,9 @@
 
 ## 🧠 Sobre mim
 
-Sou o Luan, desenvolvedor front-end apaixonado por transformar ideias em código bonito, funcional e com propósito. Minha stack principal gira em torno de **React.js**, **Next.js** e **JavaScript**.  
+Sou o Luan, desenvolvedor front-end apaixonado por transformar ideias em código bonito, funcional e com propósito. Minha stack principal gira em torno de **React.js**, **Next.js**, **JavaScript**.
 
-Atualmente atuo como **freelancer** e **dev voluntário**, sempre buscando projetos que causem impacto real.  
+Atualmente atuo como **freelancer** e **dev voluntário**, sempre buscando projetos que causem impacto real.
 
 Ah, e não pense que por ser júnior eu pego leve... aqui a entrega é braba! 💪
 
@@ -19,67 +19,51 @@ Ah, e não pense que por ser júnior eu pego leve... aqui a entrega é braba! �
 - ⚛️ React.js | Next.js  
 - 💅 SCSS | Tailwind | Bootstrap  
 - 🎯 JavaScript Vanilla  
-- 🐘 PHP (desenvolvendo APIs REST)  
-- 🧪 Postman, testes de API  
-- ☁️ MongoDB | MySQL  
+- 🐘 PHP (aprendendo a fundo com APIs REST)  
+- 🧪 Postman, testes de API
+- ☁️ MongoDB | MySQL | PostgreSQL  
 - 🔐 JWT | Segurança de APIs  
-- 💻 Git + GitHub
+- 💻 Git
 
 ---
 
 ## 💼 Projetos em andamento
 
 ### 🔧 Projeto Voluntário
-Atuação no desenvolvimento de um sistema web colaborativo com foco em autenticação, integração de APIs e segurança.
+Desenvolvimento de sistema completo com autenticação, CRUDs e rotas protegidas usando PHP e banco de dados.
 
 ### 💡 Plataforma de Conexão Profissional
-Landing page + cadastro diferenciado de usuários + busca de vagas + painel administrativo com rotas protegidas e deploy completo.
+Landing page + painel administrativo com cadastro diferenciado de usuários, busca de vagas, deploy full stack e MongoDB Atlas.
 
 ---
 
-## 🛠️ O que sei fazer
+## ✨ GitHub Stats
 
-- Transformar requisitos soltos em uma interface fluida 💻  
-- Escrever SCSS limpo, organizado e escalável  
-- Criar **formulários conectados com backend**, com segurança JWT  
-- Montar sistemas de login com **validação**, redirecionamento e proteção de rotas  
-- Trabalhar bem em equipe com comunicação clara e empatia  
+![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luanquevedo&show_icons=true&theme=cobalt&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Luanquevedo&theme=cobalt&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanquevedo&layout=compact&theme=cobalt&hide_border=true)
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tecnologias
 
-![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanquevedo&show_icons=true&theme=cobalt)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Luanquevedo&theme=cobalt)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanquevedo&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" style="background:white; border-radius:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" style="background:white; border-radius:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 
 ---
 
-## 🤝 Bora conversar?
+## 🦖 Godzilla Contribution Animation
 
-Me chama pra trocar ideia, colaborar num projeto ou contar sua história!  
-🌍 São Paulo - SP  
-🔗 [LinkedIn](https://www.linkedin.com/in/luan-quevedo)  
-🚧 Portfólio vindo aí... mas o código já tá em produção!
+![Godzilla GIF](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif)
 
-<div align="left">
-  <!-- Front-end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" title="Next.js" style="background:white; border-radius:5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass" title="Sass"/>
+> Imagine ele apagando commits com um sopro atômico… (ainda não rola no GitHub, mas seria demais né?)
 
-  <!-- Back-end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
-
-  <!-- Outros -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
-</div>
-
-
-
+---
