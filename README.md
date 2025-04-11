@@ -58,12 +58,3 @@ Landing page + painel administrativo com cadastro diferenciado de usuários, bus
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 
----
-
-## 🦖 Godzilla Contribution Animation
-
-![Godzilla GIF](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif)
-
-> Imagine ele apagando commits com um sopro atômico… (ainda não rola no GitHub, mas seria demais né?)
-
----
