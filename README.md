@@ -1,83 +1,65 @@
-# 👋 Prazer, sou Luan Quevedo
+# 👋 E aí! Eu sou o Luan Quevedo 🚀
 
-> Desenvolvedor Front-End | Foco em impacto real através da tecnologia
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luanquevedo&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luanquevedo&theme=dracula&hide_border=true"/>
-</div>
+> Front-end Developer • Ajudo quem ajuda 🌍
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou desenvolvedor front-end com forte atuação em **React.js**, **Next.js** e **JavaScript**. Apaixonado por transformar ideias em produtos digitais funcionais, acessíveis e bem estruturados.
+Sou o Luan, desenvolvedor front-end apaixonado por transformar ideias em código bonito, funcional e com propósito. Minha stack principal gira em torno de **React.js**, **Next.js** e **JavaScript**.  
 
-Atualmente trabalho como **freelancer** e também colaboro como **desenvolvedor voluntário** em projetos de impacto social. Tenho experiência prática com desenvolvimento de **interfaces modernas**, **construção de APIs RESTful**, e integração com bancos de dados como **MongoDB**, **PostgreSQL** e **MySQL**.
+Atualmente atuo como **freelancer** e **dev voluntário**, sempre buscando projetos que causem impacto real.  
 
-Além do domínio técnico, trago um olhar colaborativo, comunicação clara e foco na entrega com qualidade. Em todos os projetos que participo, busco gerar valor e manter a consistência entre código limpo, design funcional e propósito.
+Ah, e não pense que por ser júnior eu pego leve... aqui a entrega é braba! 💪
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🧰 Stack principal
 
 - ⚛️ React.js | Next.js  
-- 🎯 JavaScript (Vanilla e ES6+) | TypeScript
-- 💅 SCSS | Tailwind CSS | Bootstrap  
-- 🐘 PHP (foco em APIs RESTful)  
-- ☁️ MongoDB | PostgreSQL | MySQL  
+- 💅 SCSS | Tailwind | Bootstrap  
+- 🎯 JavaScript Vanilla  
+- 🐘 PHP (desenvolvendo APIs REST)  
+- 🧪 Postman, testes de API  
+- ☁️ MongoDB | MySQL  
 - 🔐 JWT | Segurança de APIs  
-- 🧪 Postman | Testes de API  
-- 💻 Git + GitHub | Versionamento colaborativo  
-- 🎨 Figma | Desenvolvimento orientado a design  
+- 💻 Git + GitHub
 
 ---
 
 ## 💼 Projetos em andamento
 
-### 🔧 Projeto Voluntário — Decola Juninho
-Atuo no desenvolvimento do back-end de uma plataforma completa utilizando **PHP puro**, focando na criação de APIs RESTful seguras, com autenticação via **JWT**, organização modular de rotas, e integração futura com banco de dados relacional.
-
-O projeto envolve:
-- Arquitetura escalável e reaproveitável  
-- Validação de dados e foco em segurança  
-- Comunicação entre diferentes áreas da aplicação (usuários, conteúdo e estatísticas)  
-- Colaboração com equipe front-end em ambiente ágil
+### 🔧 Projeto Voluntário
+Atuação no desenvolvimento de um sistema web colaborativo com foco em autenticação, integração de APIs e segurança.
 
 ### 💡 Plataforma de Conexão Profissional
-Aplicação web full-stack com:
-- Landing page responsiva  
-- Cadastro segmentado por tipo de usuário  
-- Painel administrativo com autenticação protegida  
-- Sistema de busca e paginação de dados  
-- Deploy gratuito com MongoDB Atlas, Vercel e Render  
+Landing page + cadastro diferenciado de usuários + busca de vagas + painel administrativo com rotas protegidas e deploy completo.
 
 ---
 
-## 🛠️ O que eu entrego
+## 🛠️ O que sei fazer
 
-- Interfaces modernas e responsivas  
-- Consumo e integração de APIs RESTful  
-- Autenticação com JWT e proteção de rotas  
-- Estilização limpa com SCSS/Tailwind  
-- Estrutura de projeto organizada e escalável  
-- Boas práticas de versionamento com Git  
-
----
-
-## 📍 Localização
-
-📌 São Paulo - SP | Disponível para atuação remota ou híbrida  
+- Transformar requisitos soltos em uma interface fluida 💻  
+- Escrever SCSS limpo, organizado e escalável  
+- Criar **formulários conectados com backend**, com segurança JWT  
+- Montar sistemas de login com **validação**, redirecionamento e proteção de rotas  
+- Trabalhar bem em equipe com comunicação clara e empatia  
 
 ---
 
-## 🤝 Vamos conversar?
+## 📊 GitHub Stats
 
-Se quiser conversar, colaborar em projetos ou tiver uma oportunidade em tech, estou sempre aberto a conexões construtivas!  
+![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanquevedo&show_icons=true&theme=cobalt)
 
-[🔗 LinkedIn](https://www.linkedin.com/in/luan-quevedo/)  
-🚧 Portfólio em construção — mas o código já tá em produção!
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luanquevedo&theme=cobalt)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanquevedo&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🤝 Bora conversar?
+
+Me chama pra trocar ideia, colaborar num projeto ou contar sua história!  
+🌍 São Paulo - SP  
+🔗 [LinkedIn](https://www.linkedin.com/in/luan-quevedo)  
+🚧 Portfólio vindo aí... mas o código já tá em produção!
