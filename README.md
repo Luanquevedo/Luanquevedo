@@ -42,18 +42,3 @@ Landing page + painel administrativo com cadastro diferenciado de usuários, bus
 ![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luanquevedo&show_icons=true&theme=cobalt&hide_border=true)
 ![Streak](https://streak-stats.demolab.com?user=Luanquevedo&theme=cobalt&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanquevedo&layout=compact&theme=cobalt&hide_border=true)
-
----
-
-## 🛠️ Tecnologias
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="display:inline-block; margin-right:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" style="display:inline-block; margin-right:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="display:inline-block; margin-right:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" style="display:inline-block; margin-right:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="display:inline-block; margin-right:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" style="background:white; border-radius:5px; display:inline-block; margin-right:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" style="display:inline-block; margin-right:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" style="background:white; border-radius:5px; display:inline-block; margin-right:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" style="display:inline-block; margin-right:10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="display:inline-block; margin-right:10px;"/>
