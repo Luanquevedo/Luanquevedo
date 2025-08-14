@@ -1,6 +1,6 @@
 # 👋 E aí! Eu sou o Luan Quevedo 🚀
 
-> Front-end Developer • Ajudo quem ajuda 🌍
+> Front-end Developer
 
 ---
 
