@@ -1,4 +1,4 @@
-#🧑‍💻 Luan Quevedo — Front-End Developer com diferencial em Back-End�
+## 🧑‍💻 Luan Quevedo — Front-End Developer com diferencial em Back-End�
 
 > React • Next • Angular • TypeScript • PHP (Laravel/Vanilla) • MySQL • JWT • Segurança
 
