@@ -1,40 +1,81 @@
-# 👋 E aí! Eu sou o Luan Quevedo 🚀
+#🧑‍💻 Luan Quevedo — Front-End Developer com diferencial em Back-End�
 
-> Front-end Developer
+> React • Next • Angular • TypeScript • PHP (Laravel/Vanilla) • MySQL • JWT • Segurança
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou o Luan, desenvolvedor front-end apaixonado por transformar ideias em código bonito, funcional e com propósito. Minha stack principal gira em torno de **React.js**, **Next.js**, **JavaScript**.
+Sou desenvolvedor Front-End com um forte diferencial em integrações back-end, APIs seguras e arquitetura limpa.
+Gosto de resolver problemas reais, criar interfaces performáticas e construir sistemas que fazem diferença no dia a dia das pessoas.
 
-Atualmente atuo como **freelancer** e **dev voluntário**, sempre buscando projetos que causem impacto real.
+Hoje atuo em:
 
-Ah, e não pense que por ser júnior eu pego leve... aqui a entrega é braba! 💪
+* Desenvolvimento de APIs em PHP (Laravel e Vanilla)
+
+* Integrações entre front e back usando Next.js, React e Angular
+
+* Sistemas corporativos em produção nacional
+
+* Implantação e manutenção de ferramentas internas (como Mattermost em Oracle Cloud)
+
+Sou movido por curiosidade, boa comunicação e seguir sempre evoluindo — focando no que realmente importa: entregar valor com código sólido, seguro e limpo
 
 ---
 
 ## 🧰 Stack principal
 
-- ⚛️ React.js | Next.js  
-- 💅 SCSS | Tailwind | Bootstrap  
-- 🎯 JavaScript Vanilla  
-- 🐘 PHP (aprendendo a fundo com APIs REST)  
-- 🧪 Postman, testes de API
-- ☁️ MongoDB | MySQL | PostgreSQL  
-- 🔐 JWT | Segurança de APIs  
-- 💻 Git
+# Front-End
 
+* ⚛️ React.js • Next.js
+* 🅰️ Angular (standalone components)
+* 🎨 TypeScript • JavaScript
+* 💅 SCSS • Tailwind CSS
+
+# Back-End
+
+* 🐘 PHP Vanilla • PHP Laravel
+* 🔐 Autenticação JWT • Sanitização • Segurança de APIs
+* 🗄️ MySQL
+* 
+# Infra / DevOps básico
+
+* ☁️ Oracle Cloud
+* 🔧 Implantação de aplicações
+* 🌀 Git, GitHub, versionamento profissional
 ---
 
-## 💼 Projetos em andamento
+## 📌 Projetos Relevantes
 
-### 🔧 Projeto Voluntário
-Desenvolvimento de sistema completo com autenticação, CRUDs e rotas protegidas usando PHP e banco de dados.
+### 🔐 API de Autenticação JWT (PHP Vanilla)
 
-### 💡 Plataforma de Conexão Profissional
-Landing page + painel administrativo com cadastro diferenciado de usuários, busca de vagas, deploy full stack e MongoDB Atlas.
+* API completa sem dependências externas, incluindo:
+* geração de header, payload e assinatura
+* hashing seguro
+* validação avançada de entrada
+* arquitetura MVC com rotas autenticadas
+* middleware próprio e boas práticas de segurança
+Projeto criado na Decola Juninho e utilizado para autenticação de sistemas reais internos.
 
+### 🛒 E-commerce Full Stack (Laravel + Next.js) (em desenvolvimento)
+
+* Autenticação com Laravel Sanctum
+* API de produtos, logs, middleware e regras de negócio
+* Integração com front Next.js
+* Foco em performance, segurança e escalabilidade
+
+### 🏢 Implantação de Mattermost (RH Recruiter)
+
+* Configuração, implantação e manutenção em Oracle Cloud
+* Suporte para operação diária
+* Integração com fluxo interno e melhoria de comunicação da equipe
+
+### 🏢 Implantação de Mattermost (RH Recruiter)
+
+* levantamento de requisitos
+* modelagem inicial da arquitetura
+* definição de regras de negócio
+* preparação para criação da API e dashboard
 ---
 
 ## ✨ GitHub Stats
