@@ -65,12 +65,6 @@ Sou movido por aprendizado contínuo, boa comunicação e evolução técnica co
 
 ---
 
-### 🧾 Sistema Contábil — Projeto Freelancer
-- Levantamento de requisitos e análise de fluxo  
-- Definição de regras de negócio  
-- Modelagem da arquitetura inicial para API e dashboard  
-
----
 
 ## ✨ GitHub Stats
 
