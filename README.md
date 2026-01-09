@@ -79,3 +79,8 @@ Sou movido por aprendizado contínuo, boa comunicação e evolução técnica co
 ![GitHub Streak](https://streak-stats.demolab.com?user=Luanquevedo&theme=tokyonight&hide_border=true_seconds=86400)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanquevedo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/Auth-JWT-000000?style=flat)
