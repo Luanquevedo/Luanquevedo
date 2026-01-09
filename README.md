@@ -1,74 +1,74 @@
-# 🧑‍💻 Luan Quevedo — Front-End Developer com diferencial em Back-End
+# 🧑‍💻 Luan Quevedo — Desenvolvedor Back-end Júnior (PHP & Laravel)
 
-> React • Next • Angular • TypeScript • PHP (Laravel/Vanilla) • MySQL • JWT • Segurança
+> PHP (Laravel & Vanilla) • APIs REST • JWT • MySQL • Segurança • Integração Front-end
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou desenvolvedor Front-End com um forte diferencial em integrações back-end, APIs seguras e arquitetura limpa.  
-Gosto de resolver problemas reais, criar interfaces performáticas e construir sistemas que fazem diferença no dia a dia das pessoas.
+Sou Desenvolvedor Back-end Júnior com foco em PHP (Vanilla e Laravel) e no desenvolvimento de APIs REST seguras, bem estruturadas e orientadas a boas práticas.
 
-Hoje atuo em:
+Atuo em projetos reais e voluntários, com experiência prática em autenticação JWT, validação de dados, organização de sistemas em arquitetura MVC e integração entre back-end e front-end. Tenho forte preocupação com segurança, clareza de código, performance e manutenibilidade.
 
-- Desenvolvimento de APIs em PHP (Laravel e Vanilla)  
-- Integrações entre front e back usando Next.js, React e Angular  
-- Sistemas corporativos em produção nacional  
-- Implantação e manutenção de ferramentas internas (como Mattermost em Oracle Cloud)
+Possuo também background em front-end (React, Next.js e Angular), o que me permite compreender melhor a comunicação entre camadas, colaborar de forma eficiente com times front-end e construir soluções mais completas.
 
-Sou movido por curiosidade, boa comunicação e evolução contínua — focado em entregar valor com código sólido, seguro e limpo.
+Sou movido por aprendizado contínuo, boa comunicação e evolução técnica constante, sempre buscando entregar valor com código limpo, seguro e sustentável.
 
 ---
 
-## 🧰 Stack principal
+## 🧰 Stack Principal
 
-### Front-End
+### Back-end (foco)
+- 🐘 PHP Vanilla • Laravel  
+- 🔐 APIs REST • Autenticação JWT • Validação e Sanitização  
+- 🗄️ MySQL • PostgreSQL  
+- 🧱 Arquitetura MVC  
+
+### Front-end (diferencial)
 - ⚛️ React.js • Next.js  
-- 🅰️ Angular (standalone components)  
-- 🎨 TypeScript • JavaScript  
+- 🅰️ Angular (Standalone Components)  
+- 🎨 JavaScript • TypeScript  
 - 💅 SCSS • Tailwind CSS  
 
-### Back-End
-- 🐘 PHP Vanilla • PHP Laravel  
-- 🔐 Autenticação JWT • Sanitização • Segurança de APIs  
-- 🗄️ MySQL  
-
-### Infra / DevOps básico
+### Infra & Ferramentas
 - ☁️ Oracle Cloud  
-- 🔧 Implantação de aplicações  
-- 🌀 Git, GitHub, versionamento profissional  
+- 🐧 Linux (Ubuntu)  
+- 🌀 Git • GitHub  
+- 🔎 Postman  
 
 ---
 
 ## 📌 Projetos Relevantes
 
-### 🔐 API de Autenticação JWT (PHP Vanilla)
-- API completa sem dependências externas: header, payload, assinatura e hashing seguro  
-- Validação avançada de entrada (regex, sanitização, regras de negócio)  
-- Arquitetura MVC com rotas autenticadas, middleware e boas práticas de segurança  
-> Criada na Decola Juninho para utilização em sistemas internos.
+### 🔐 API de Autenticação JWT — PHP Vanilla
+- Desenvolvimento de API completa sem dependências externas  
+- Geração manual de tokens JWT, validação robusta e hashing seguro  
+- Validação de dados com regex e sanitização  
+- Arquitetura MVC com rotas protegidas e middleware de autenticação  
+> Projeto desenvolvido para uso interno em ambiente real.
 
 ---
 
-### 🛒 E-commerce Full Stack (Laravel + Next.js) — *em desenvolvimento*
-- Autenticação com Laravel Sanctum  
-- API de produtos, logs, middleware e regras de negócio  
-- Integração com front Next.js  
+### 🛒 E-commerce Full Stack — Laravel + Next.js *(em desenvolvimento)*
+- API REST com Laravel Sanctum  
+- Autenticação segura, middlewares e regras de negócio  
+- Integração completa com front-end em Next.js  
 - Foco em performance, segurança e escalabilidade  
 
 ---
 
-### 🏢 Implantação de Mattermost (RH Recruiter)
-- Configuração e implantação completa em Oracle Cloud  
-- Suporte para operação diária  
-- Integração com fluxo interno e melhoria de comunicação da equipe  
+### 🏢 Implantação do Mattermost — Oracle Cloud
+- Implantação, configuração e manutenção da plataforma Mattermost  
+- Ambiente Ubuntu em nuvem com PostgreSQL  
+- Configuração de serviços, segurança básica e disponibilidade  
+- Administração do ambiente para uso interno da equipe do projeto  
 
 ---
 
-### 🧾 Sistema Contábil (Freelancer)
-- Levantamento de requisitos e análise de fluxo atual  
-- Modelagem da arquitetura inicial  
-- Definição de regras de negócio e organização para construção da API e dashboard  
+### 🧾 Sistema Contábil — Projeto Freelancer
+- Levantamento de requisitos e análise de fluxo  
+- Definição de regras de negócio  
+- Modelagem da arquitetura inicial para API e dashboard  
 
 ---
 
@@ -79,4 +79,3 @@ Sou movido por curiosidade, boa comunicação e evolução contínua — focado 
 ![Streak](https://streak-stats.demolab.com?user=Luanquevedo&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Luanquevedo&layout=compact&theme=tokyonight&hide_border=true)
-
