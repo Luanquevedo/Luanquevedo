@@ -74,11 +74,11 @@ Sou movido por aprendizado contínuo, boa comunicação e evolução técnica co
 
 ## ✨ GitHub Stats
 
-![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luanquevedo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luanquevedo&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Luanquevedo&theme=tokyonight&hide_border=true_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=Luanquevedo&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanquevedo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanquevedo&layout=compact&theme=tokyonight&hide_border=true)
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=flat&logo=laravel&logoColor=white)
