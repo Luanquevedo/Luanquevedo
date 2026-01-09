@@ -74,8 +74,8 @@ Sou movido por aprendizado contínuo, boa comunicação e evolução técnica co
 
 ## ✨ GitHub Stats
 
-![Luan's GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Luanquevedo&show_icons=true&theme=tokyonight&hide_border=true)
+![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luanquevedo&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=Luanquevedo&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Luanquevedo&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Luanquevedo&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanquevedo&layout=compact&theme=tokyonight&hide_border=true)
