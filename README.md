@@ -80,7 +80,7 @@ Sou movido por aprendizado contínuo, boa comunicação e evolução técnica co
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luanquevedo&theme=tokyonight)
 
-![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/Auth-JWT-000000?style=flat)
+![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/Auth-JWT-black)
