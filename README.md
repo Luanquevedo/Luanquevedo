@@ -1,74 +1,42 @@
-# 🧑‍💻 Luan Quevedo — Desenvolvedor Back-end Júnior (PHP & Laravel)
+# 🧑‍💻 Luan Quevedo — Desenvolvedor Back-end (PHP & Laravel)
 
-> PHP (Laravel & Vanilla) • APIs REST • JWT • MySQL • Segurança • Integração Front-end
+> PHP (Laravel & Vanilla) • APIs REST • JWT/Sanctum • Banco de Dados • Nuvem • Segurança
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou Desenvolvedor Back-end Júnior com foco em PHP (Vanilla e Laravel) e no desenvolvimento de APIs REST seguras, bem estruturadas e orientadas a boas práticas.
+Sou Desenvolvedor Back-end com foco na construção de aplicações seguras, escaláveis e com arquitetura limpa. Minha stack principal gira em torno do ecossistema PHP (Vanilla e Laravel 11), construindo APIs RESTful orientadas a boas práticas de engenharia de software.
 
-Atuo em projetos reais e voluntários, com experiência prática em autenticação JWT, validação de dados, organização de sistemas em arquitetura MVC e integração entre back-end e front-end. Tenho forte preocupação com segurança, clareza de código, performance e manutenibilidade.
+Minha vivência não se limita apenas ao código: atuo diretamente em projetos lidando com implantação em nuvem (Oracle Cloud / Linux), sistemas de autenticação robustos (JWT, Sanctum), proteção de infraestrutura (CORS, Middlewares) e integração estruturada com o front-end. 
 
-Possuo também background em front-end (React, Next.js e Angular), o que me permite compreender melhor a comunicação entre camadas, colaborar de forma eficiente com times front-end e construir soluções mais completas.
-
-Sou movido por aprendizado contínuo, boa comunicação e evolução técnica constante, sempre buscando entregar valor com código limpo, seguro e sustentável.
+Trago uma forte bagagem analítica de suporte a sistemas complexos de alta criticidade, o que me dá uma visão clara de como construir um back-end resiliente, com logs bem estruturados e foco em performance.
 
 ---
 
-## 🧰 Stack Principal
+## 🧰 Stack Tecnológica
 
-### Back-end (foco)
-- 🐘 PHP Vanilla • Laravel  
-- 🔐 APIs REST • Autenticação JWT • Validação e Sanitização  
-- 🗄️ MySQL • PostgreSQL  
-- 🧱 Arquitetura MVC  
+### Back-end & Arquitetura
+- 🐘 PHP Vanilla • Laravel 11
+- 🔐 APIs REST • Autenticação (JWT / Sanctum) • Segurança & Sanitização
+- 🗄️ MySQL • PostgreSQL
+- 🧱 Padrões de Projeto • Arquitetura MVC
 
-### Front-end (diferencial)
-- ⚛️ React.js • Next.js  
-- 🅰️ Angular (Standalone Components)  
-- 🎨 JavaScript • TypeScript  
-- 💅 SCSS • Tailwind CSS  
+### Infraestrutura & Nuvem
+- ☁️ Oracle Cloud • Deploy (Vercel, Render)
+- 🐧 Linux (Ubuntu) • Configuração de Servidores
+- 🌀 Git • GitHub
+- 🔎 Postman • Validação de Endpoints
 
-### Infra & Ferramentas
-- ☁️ Oracle Cloud  
-- 🐧 Linux (Ubuntu)  
-- 🌀 Git • GitHub  
-- 🔎 Postman  
+### Front-end (Diferencial)
+- ⚛️ React.js • Next.js • Figma (Prototipação)
+- 🎨 JavaScript • TypeScript • Tailwind CSS
 
 ---
-
-## 📌 Projetos Relevantes
-
-### 🔐 API de Autenticação JWT — PHP Vanilla
-- Desenvolvimento de API completa sem dependências externas  
-- Geração manual de tokens JWT, validação robusta e hashing seguro  
-- Validação de dados com regex e sanitização  
-- Arquitetura MVC com rotas protegidas e middleware de autenticação  
-> Projeto desenvolvido para uso interno em ambiente real.
-
----
-
-### 🛒 E-commerce Full Stack — Laravel + Next.js *(em desenvolvimento)*
-- API REST com Laravel Sanctum  
-- Autenticação segura, middlewares e regras de negócio  
-- Integração completa com front-end em Next.js  
-- Foco em performance, segurança e escalabilidade  
-
----
-
-### 🏢 Implantação do Mattermost — Oracle Cloud
-- Implantação, configuração e manutenção da plataforma Mattermost  
-- Ambiente Ubuntu em nuvem com PostgreSQL  
-- Configuração de serviços, segurança básica e disponibilidade  
-- Administração do ambiente para uso interno da equipe do projeto  
-
----
-
 
 ## ✨ GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanquevedo&theme=tokyonight)
+![Profile Details](https://github.githubassets.com/images/modules/profile/profile-stat-details-placeholder.png) 
 
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luanquevedo&theme=tokyonight)
 
